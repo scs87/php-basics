@@ -1,4 +1,4 @@
-`#php` `#basics` `#master-in-software-engineering`
+`#php` `#basics` `#master-in-software-development`
 
 # PHP Basics <!-- omit in toc -->
 
